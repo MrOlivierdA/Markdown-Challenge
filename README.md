@@ -14,7 +14,7 @@ _In Code We Trust_
 | Favorite food:       | Pâtes Carbonara |
 | Pinneapple on pizza: | Yes/~~No~~      |
 
-###### Hobbies
+# Hobbies
 
 - Culture
 - Art
@@ -24,14 +24,14 @@ _In Code We Trust_
 
 * Equitation
 
-###### You can always count on me when...
+# You can always count on me when...
 
 When someone is in trouble and I can help them, I will do everything I can to help them out of their situation.
 
-###### funny story
+# Funny story
 
 Having worked in the Justice Department, it is always uncomfortable to bump into people in town who have appeared before me at their hearing...
 
-###### Life is a joke...
+## Life is a joke...
 
 [<< previous ||](https://github.com/louiscollard/markdown-challenge) Olivier [|| next >>](https://github.com/Saphido/markdown-challenge)
