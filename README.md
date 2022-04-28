@@ -2,7 +2,7 @@
 
 #1 Olivier markdown challenge
 _In Code We Trust_
-![logo] (OLi.jpg)
+![logo](OLi.jpg)
 
 " Men sana in corpore sano"
 [^note]
