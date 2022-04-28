@@ -1,6 +1,7 @@
 # markdown-challenge
 
-#1 Olivier markdown challenge
+# Olivier markdown challenge
+
 _In Code We Trust_
 ![logo](OLi.jpg)
 
@@ -12,7 +13,7 @@ _In Code We Trust_
 |Pinneapple on pizza:|Yes/~~No~~|
 [^note]
 
-#6 Hobbies
+###### Hobbies
 
 - Culture
 - Art
@@ -21,12 +22,14 @@ _In Code We Trust_
   ⋅⋅\* Architecture
 - Equitation
 
-#6 You can always count on me when...
+###### You can always count on me when...
+
 When someone is in trouble and I can help them, I will do everything I can to help them out of their situation.
 
-#6 funny story
+###### funny story
+
 Having worked in the Justice Department, it is always uncomfortable to bump into people in town who have appeared before me at their hearing...
 
-#6 Life is a joke...
+###### Life is a joke...
 
 [<< previous ||](https://github.com/louiscollard/markdown-challenge) Olivier [|| next >>](https://github.com/Saphido/markdown-challenge)
