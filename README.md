@@ -6,21 +6,23 @@ _In Code We Trust_
 ![logo](OLi.jpg)
 
 " Men sana in corpore sano"
-[^note]
-|Birthday:|15/07|
-|Favorite color:|orange gold|
-|Favorite food:|Pâtes Carbonara|
-|Pinneapple on pizza:|Yes/~~No~~|
-[^note]
+
+| Question             | Réponse         |
+| -------------------- | --------------- |
+| Birthday:            | 15/07           |
+| Favorite color:      | orange gold     |
+| Favorite food:       | Pâtes Carbonara |
+| Pinneapple on pizza: | Yes/~~No~~      |
 
 ###### Hobbies
 
 - Culture
 - Art
-  ⋅⋅* Peinture
-  ⋅⋅* Sculture
-  ⋅⋅\* Architecture
-- Equitation
+  - Peinture
+  - Sculture
+  - Architecture
+
+* Equitation
 
 ###### You can always count on me when...
 
