@@ -9,7 +9,7 @@ _In Code We Trust_
 | Question             | Réponse         |
 | -------------------- | --------------- |
 | Birthday:            | 15/07           |
-| Favorite color:      | orange gold     |
+| Favorite color:      | Orange gold     |
 | Favorite food:       | Pâtes Carbonara |
 | Pinneapple on pizza: | Yes/~~No~~      |
 
