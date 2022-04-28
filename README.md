@@ -2,7 +2,8 @@
 
 #1 Olivier markdown challenge
 _In Code We Trust_
-[logo] https://scontent-bru2-1.xx.fbcdn.net/v/t39.30808-6/273784385_6913890525353008_2950027256676843047_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_ohc=fn>
+![logo] (https://scontent-bru2-1.xx.fbcdn.net/v/t39.30808-6/273784385_6913890525353008_2950027256676843047_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_ohc=fn>)
+
 " Men sana in corpore sano"
 [^note]
 |Birthday:|15/07|
