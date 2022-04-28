@@ -1,5 +1,3 @@
-# markdown-challenge
-
 # Olivier markdown challenge
 
 _In Code We Trust_
