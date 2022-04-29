@@ -1,6 +1,6 @@
 # Olivier markdown challenge
 
-_Today is the first day of the rest of your life_
+_Today is the FIRST day of the rest of your life_
 
 ![logo](OLi.jpg)
 
