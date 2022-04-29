@@ -1,6 +1,6 @@
 # Olivier markdown challenge
 
-_In Code We Trust_
+_Today is the first day of the rest of your life_
 
 ![logo](OLi.jpg)
 
