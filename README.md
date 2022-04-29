@@ -1,6 +1,6 @@
 # Olivier markdown challenge
 
-_Today is the FIRST day of the rest of your life_
+_Today is the first day of the rest of your life_
 
 ![logo](OLi.jpg)
 
@@ -33,4 +33,4 @@ Having worked in the Justice Department, it is always uncomfortable to bump into
 
 #### Life is a joke...
 
-[<< previous ||](https://github.com/louiscollard/markdown-challenge) Olivier [|| next >>](https://github.com/Saphido/markdown-challenge)
+[<< previous ](https://github.com/louiscollard/markdown-challenge) || Olivier || [ next >>](https://github.com/Saphido/markdown-challenge)
